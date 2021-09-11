@@ -1,5 +1,7 @@
 说明 本项目只是整合 https://github.com/zxbu/webdav-aliyundriver 写脚本方便程序自启
-jdk/ 自行下载
+jre/RaiDrive_1.6.2.416.exe 自行下载  
+
+### 如需 整合包不方便上传 公众号"gylang编程笔记"自行领取
 
 # 免责声明
 1. 本软件为免费开源项目，无任何形式的盈利行为。

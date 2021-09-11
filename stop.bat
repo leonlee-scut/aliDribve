@@ -18,5 +18,3 @@ for /f "usebackq delims== tokens=1-2" %%a in (`set obj`) do (
     )
     set pid=0
 )
-
-pause
